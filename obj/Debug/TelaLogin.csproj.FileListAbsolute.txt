@@ -1,0 +1,19 @@
+C:\Users\giord\OneDrive\Documentos\SharpDevelop Projects\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe.config
+C:\Users\giord\OneDrive\Documentos\SharpDevelop Projects\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe
+C:\Users\giord\OneDrive\Documentos\SharpDevelop Projects\TelaLogin\TelaLogin\bin\Debug\TelaLogin.pdb
+C:\Users\giord\OneDrive\Documentos\SharpDevelop Projects\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csprojResolveAssemblyReference.cache
+C:\Users\giord\OneDrive\Documentos\SharpDevelop Projects\TelaLogin\TelaLogin\obj\Debug\TelaLogin.TelaLogin.resources
+C:\Users\giord\OneDrive\Documentos\SharpDevelop Projects\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.GenerateResource.Cache
+C:\Users\giord\OneDrive\Documentos\SharpDevelop Projects\TelaLogin\TelaLogin\obj\Debug\TelaLogin.exe
+C:\Users\giord\OneDrive\Documentos\SharpDevelop Projects\TelaLogin\TelaLogin\obj\Debug\TelaLogin.pdb
+C:\Users\Aluno_iot\Desktop\TelaLogin-20260630T120759Z-3-001Novo\TelaLoginNOVA\obj\Debug\TelaLogin.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_iot\Desktop\TelaLogin-20260630T120759Z-3-001Novo\TelaLoginNOVA\obj\Debug\TelaLogin.TelaCadastro.resources
+C:\Users\Aluno_iot\Desktop\TelaLogin-20260630T120759Z-3-001Novo\TelaLoginNOVA\obj\Debug\TelaLogin.TelaLogin.resources
+C:\Users\Aluno_iot\Desktop\TelaLogin-20260630T120759Z-3-001Novo\TelaLoginNOVA\obj\Debug\TelaLogin.csproj.GenerateResource.Cache
+C:\Users\Aluno_iot\Desktop\TelaLogin-20260630T120759Z-3-001Novo\TelaLoginNOVA\obj\Debug\TelaLogin.exe
+C:\Users\Aluno_iot\Desktop\TelaLogin-20260630T120759Z-3-001Novo\TelaLoginNOVA\obj\Debug\TelaLogin.pdb
+C:\Users\Aluno_iot\Desktop\TelaLogin-20260630T120759Z-3-001Novo\TelaLoginNOVA\bin\Debug\TelaLogin.exe.config
+C:\Users\Aluno_iot\Desktop\TelaLogin-20260630T120759Z-3-001Novo\TelaLoginNOVA\bin\Debug\TelaLogin.exe
+C:\Users\Aluno_iot\Desktop\TelaLogin-20260630T120759Z-3-001Novo\TelaLoginNOVA\bin\Debug\TelaLogin.pdb
+C:\Users\Aluno_iot\Desktop\TelaLogin-20260630T120759Z-3-001Novo\TelaLoginNOVA\bin\Debug\MySql.Data.dll
+C:\Users\Aluno_iot\Desktop\TelaLogin-20260630T120759Z-3-001Novo\TelaLoginNOVA\obj\Debug\TelaLogin.CadastroCliente.resources
